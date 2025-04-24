@@ -6,9 +6,13 @@ A neural network-based handwritten digit recognizer built using TensorFlow and K
 
 ## 📂 Project Structure
 
-Handwritten Digit Recognizer/ │ ├── dataset.csv # CSV containing image paths and digit labels ├── handwritten_model.keras # Trained model file ├── img/ # Folder containing digit images ├── main.ipynb # Jupyter notebook with all the code ├── requirements.txt # Python package dependencies └── README.md # Project documentation
-
----
+Handwritten Digit Recognizer/
+├── dataset.csv              # CSV containing image paths and digit labels
+├── handwritten_model.keras  # Trained model file
+├── img/                     # Folder containing digit images
+├── main.ipynb               # Jupyter notebook with all the code
+├── requirements.txt         # Python package dependencies
+└── README.md                # Project documentation
 
 ## 🛠️ Libraries Used
 
